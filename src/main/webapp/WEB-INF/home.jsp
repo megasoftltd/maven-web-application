@@ -14,7 +14,7 @@
 <body>
 <h1 align="center">Hello Sivaprasad, Welcome to Mithun Software Solutions Pvt Ltd.</h1>
 <h1 align="center">
-	100 % Job Guarntee DevOps Program will start on July 28th..
+	100 % Job Guarntee DevOps Program will start on July 28th, 7 PM IST.
 	Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
